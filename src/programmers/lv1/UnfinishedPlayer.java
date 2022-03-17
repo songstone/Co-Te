@@ -2,7 +2,7 @@ package programmers.lv1;
 
 import java.util.Arrays;
 
-public class unfinishedPlayer {
+public class UnfinishedPlayer {
     public String solution(String[] participant, String[] completion) {
         Arrays.sort(participant);
         Arrays.sort(completion);
