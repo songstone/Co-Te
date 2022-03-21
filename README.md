@@ -12,3 +12,4 @@
     - [음양 더하기](./src/programmers/lv1/MinusPlus.java)
     - [완주하지 못한 선수](./src/programmers/lv1/UnfinishedPlayer.java)
     - [K번째 수](./src/programmers/lv1/KNumber.java)
+    - [체육복](./src/programmers/lv1/TrainingCloth.java)
